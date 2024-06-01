@@ -5,21 +5,21 @@ const testimonialData = [
     name: "Anne Smith",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "It was a pleasure working with Muhammad Bilal and hope do so again. We paid a bit more but it was well worth it for the clear communication that we received and the speed at which he worked. This is a make or break criteria.!",
   },
   {
     image: "/t-avt-2.png",
     name: "Jane Doe",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      " had an incredible experience working with Muhammad Bilal H on my business's website development. Not only did he showcase unmatched professionalism and attention to detail that exceeded my expectations",
   },
   {
     image: "/t-avt-3.png",
     name: "Jhon Doe",
     position: "Customer",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Bilal is delightful to work with. He made sure to understand what i wanted first and build upon that. Quick and easy delivery. Wonderful, professional outcome. Solid communication. Great value. 10 out of 10 would book again.",
   },
 ];
 

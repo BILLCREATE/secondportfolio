@@ -13,7 +13,7 @@ const Socials = () => {
   return (
     <div className="flex items-center gap-x-5 text-lg">
       <Link
-        href={"www.linkedin.com/in/muhammad-bilal-b488982a"}
+        href={"https://www.linkedin.com/in/muhammad-bilal-b488982a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"}
         target="_blank"
         className="hover:text-accent transition-all duration-300">
         <RiLinkedinLine />

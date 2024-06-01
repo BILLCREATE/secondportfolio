@@ -22,7 +22,7 @@ const serviceData = [
     icon: <RxPencil2 />,
     title: "Front End Development",
     description:
-      "A front-end developer is a type of software developer who specializes in creating and designing the user interface (UI) and user experience (UX).",
+      " Experties in creating and designing the user interface (UI) and user experience (UX).",
   },
   {
     icon: <RxDesktop />,

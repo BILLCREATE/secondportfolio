@@ -31,7 +31,7 @@ const Home = () => {
             animate="show"
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-            A passionate Full Stack Software Developer 🚀 having a special
+            A passionate with Frontend Development 🚀 having a special
             interest in Frontend technologies and experience of building Web
             applications with JavaScript / Reactjs / Nextjs / Nodejs and some
             other cool libraries and frameworks.

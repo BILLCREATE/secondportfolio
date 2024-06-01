@@ -25,7 +25,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0">
               I am a skilled Frontend Developer with experience in both
-              development and maintenance of Full Stack Web applications. I am
+              development and maintenance of Frontend Web Development. I am
               also a UI/UX Designer and have worked as a Frontend Developer with
               a focus on UI/UX at Arfa Tower.
             </motion.p>
